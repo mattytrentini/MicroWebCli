@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["microWebCli.py", "github:jczic/MicroWebCli/microWebCli.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
